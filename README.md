@@ -1,6 +1,6 @@
 # docker-nginx-autoindex
 
-This container takes official alpine nginx image and turns on autoindex.
+This container takes the official alpine nginx image and turns on the autoindex option.
 
 You can do a simple mount to simply serve files from your local
 file system with nginx.  Make sure to map the directory you want to serve from with the
