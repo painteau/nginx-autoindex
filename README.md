@@ -1,4 +1,4 @@
-# docker-nginx-autoindex
+# nginx-autoindex
 
 This container takes the official alpine nginx image and turns on the autoindex option.
 
